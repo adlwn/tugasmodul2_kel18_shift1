@@ -85,7 +85,7 @@ export default function index() {
           <ColumnCard>
           <Container>
             <Title>
-                <CardInfo nama="Desy Krisdian R. W. A." nim="21120118130045" src="https://scontent.fsub9-1.fna.fbcdn.net/v/t1.0-9/13418866_1726198377636676_4427437545356754731_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGZXnW57_uF3Ye6QaEpCAlxjVFLUB7NAMCNUUtQHs0AwF-13l8Bd-WVufskcZE17ITXfrf_pwofR0hGs_DamdTb&_nc_ohc=BeoIHLrOmcwAX-o65Ca&_nc_ht=scontent.fsub9-1.fna&oh=d954b71f6f16dc77584d836854b75288&oe=5FDFDCDF"/>
+                <CardInfo nama="Desy Krisdian R. W. A." nim="21120117120020" src="https://scontent.fsub9-1.fna.fbcdn.net/v/t1.0-9/13418866_1726198377636676_4427437545356754731_n.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGZXnW57_uF3Ye6QaEpCAlxjVFLUB7NAMCNUUtQHs0AwF-13l8Bd-WVufskcZE17ITXfrf_pwofR0hGs_DamdTb&_nc_ohc=BeoIHLrOmcwAX-o65Ca&_nc_ht=scontent.fsub9-1.fna&oh=d954b71f6f16dc77584d836854b75288&oe=5FDFDCDF"/>
             </Title>
             <SelectKelas>
                 <option value="0">Kelas Mata Kuliah</option>
